@@ -108,26 +108,22 @@ html {
 .main-informacion-contenedor-Discord{
     display: flex;
     flex-direction: column;
-    background-color: rgba(255, 0, 0, 0.1);
-    backdrop-filter: blur(5px);
-    border: rgba(255, 255, 255, 0.9);
+    background-color: red;
     border-radius: 2.5rem;
     width: 25rem;
     height: 28rem;
     padding-bottom: 2rem;
-    margin: 1rem 0rem;
+    margin: 2rem 2rem;
 }
 .main-informacion-contenedor-fivem {
     display: flex;
     flex-direction: column;
-    background-color: rgba(255, 0, 0, 0.1);
-    backdrop-filter: blur(5px);
-    border: rgba(255, 255, 255, 0.9);
+    background-color: red;
     border-radius: 2.5rem;
     width: 25rem;
     height: 28rem;
     padding-bottom: 2rem;
-    margin: 1rem 0rem;
+    margin: 2rem 2rem;
 }
 .main-informacion-contenedor-fivem {
     width: 25rem;
