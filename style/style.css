@@ -117,6 +117,11 @@ html {
     padding-bottom: 2rem;
     margin: 1rem 0rem;
 }
+.main-informacion-contenedor-fivem {
+    width: 25rem;
+    height: 29rem;
+    padding-bottom: 0 2rem  ;
+}
 .main-informacion-img-Discord {
     object-fit: fill;
     border-radius: 2.5rem;
