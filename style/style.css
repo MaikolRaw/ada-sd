@@ -107,8 +107,9 @@ html {
 }
 .main-informacion-contenedor-Discord{
     display: flex;
+    justify-content: flex-start;
     flex-direction: column;
-    background-color: red;
+    background-color: blue;
     border-radius: 2.5rem;
     width: 25rem;
     height: 28rem;
@@ -117,8 +118,9 @@ html {
 }
 .main-informacion-contenedor-fivem {
     display: flex;
+    justify-content: flex-start;
     flex-direction: column;
-    background-color: red;
+    background-color: yellow;
     border-radius: 2.5rem;
     width: 25rem;
     height: 28rem;
@@ -131,6 +133,7 @@ html {
     padding-bottom: 0 2rem  ;
 }
 .main-informacion-img-Discord {
+    display: flex;
     object-fit: contain;
     border-radius: 1.5rem;
 }
