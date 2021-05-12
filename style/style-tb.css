@@ -1,0 +1,29 @@
+.contenedor-h1 {
+    padding: 3rem 1rem;
+}
+.contenedor-p1 {
+    padding: 2rem 10rem;
+}
+.main-boton-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: 3rem 0rem;
+}
+.main-boton, .main-boton1{
+    width: 15rem;
+    height: auto;
+    padding: 1rem;
+    margin: 0rem 1rem;
+
+
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(5px);
+    border: rgba(255, 255, 255, 0.9);
+    border-radius: 3rem;
+}
+.main-boton a, .main-boton1 a {
+    font-size: 2rem;
+    color: white;
+}
