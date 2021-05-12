@@ -48,7 +48,7 @@
     margin: 6rem 2rem;
 }
 .main-informacion-img-Discord {
-    object-fit: fill;
+    object-fit: contain;
     border-radius: 2.5rem;
 }
 .main-informacion-text-Discord, .main-informacion-text-fivem {
