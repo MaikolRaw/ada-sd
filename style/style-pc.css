@@ -1,16 +1,17 @@
 .nav {
+    width: 100vw;
+    height: auto;
     display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: space-between;
-    padding: 0 10rem;
+    padding: 0rem 15rem;
+    
 }
 .nav-img {
-    display: flex;
-    flex-direction: row;
 }
 .nav-img-nav {
-    width: 11rem;
+    width: 10rem;
 }
 .contenedor  a{
     font-size: 2rem;
@@ -39,11 +40,11 @@
     text-align: center;
 }
 .contenedor-logo {
-    width: 40vw;
+    width: 34vw;
     justify-content: center;
 }
 .contenedor-logo img {
-    width: 60rem;
+    width: 70%;
 }
 .main-boton-container{
     width: 60vw;
@@ -63,4 +64,43 @@
 .main-boton a, .main-boton1 a {
     font-size: 2rem;
     color: white;
+}
+
+.main-informacion1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.main-informacion-contenedor-Discord, .main-informacion-contenedor-fivem {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(5px);
+    border: rgba(255, 255, 255, 0.9);
+    border-radius: 2.5rem;
+    width: 35vw;
+    height: auto;
+    padding-bottom: 2rem;
+    margin: 6rem 1rem;
+}
+.main-informacion-img-Discord {
+    object-fit: fill;
+    border-radius: 2.5rem;
+}
+.main-informacion-text-Discord, .main-informacion-text-fivem {
+    text-align: center;
+    color: white;
+    font-size: 2.3rem;
+    margin: 1rem;
+}
+.main-informacion-text1-Discord, .main-informacion-text1-fivem {
+    text-align: center;
+    font-size: 1.8rem;
+    padding: 0 8rem;
+    color: white;
+}
+.main-informacion-text1-Discord {
+    padding: 1rem 8rem;
+
 }
