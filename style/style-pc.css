@@ -1,0 +1,19 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding: 0 10rem;
+}
+.nav-img {
+    display: flex;
+    flex-direction: row;
+}
+.nav-img-nav {
+    width: 9rem;
+}
+.contenedor  a{
+    font-size: 1.5rem;
+    color: white;
+    margin: 0rem 2rem;
+}
