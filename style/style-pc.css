@@ -41,12 +41,14 @@
 .contenedor-logo {
     width: 34vw;
     justify-content: center;
+    margin-bottom: 15rem;
 }
 .contenedor-logo img {
     width: 70%;
 }
 .main-boton-container{
     width: 60vw;
+    margin-bottom: 3rem;
 }
 .main-boton, .main-boton1{
     width: 15rem;
