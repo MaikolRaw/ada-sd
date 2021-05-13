@@ -10,7 +10,11 @@ html {
 .body1 {
     background-image: url(../img/body/853407.jpg);
 }
+.antes {
+    background-color: black;
+}
 .nav {
+    background-color: black;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -22,8 +26,6 @@ html {
     position: sticky;
     top: 1;
     z-index: 1;
-
-
     background-color: rgba(255, 255, 255, 0.10);
     backdrop-filter: blur(5px);  
     border: rgba(255, 255, 255, 0.9);
