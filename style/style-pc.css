@@ -134,6 +134,12 @@
     font-size: 1.7rem;
     padding: 0 4rem;
 }
+.staff-container4 p {
+    padding: 0 10rem;
+}
+.staff-container1 p {
+    padding: 0 7rem;
+}
 .staff-container1,
 .staff-container2,
 .staff-container3,

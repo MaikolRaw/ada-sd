@@ -179,14 +179,14 @@ html {
     font-size: 2.2rem;
     padding-bottom: 2rem;
 }
-.staff-container1 p,
-.staff-container2 p,
-.staff-container3 p,
+.staff-container1 p ,
+.staff-container2 p ,
+.staff-container3 p ,
 .staff-container4 p {
     color: white;
     margin: 1rem;
     font-size: 1.7rem;
-    padding: 0 8.5rem;
+    padding: 0rem 8.5rem;
 }
 .staff-container1 img,
 .staff-container2 img,
@@ -194,7 +194,12 @@ html {
 .staff-container4 img {
     margin: 1rem;
     width: 8rem;
-} /*footer*/
+
+}
+
+
+ /*footer*/
+
 .footer {
     display: flex;
     flex-direction: row;
