@@ -151,3 +151,47 @@ html {
     padding: 0 1.5rem;
     color: white;
 }
+.body3 {
+    background-image: url(../img/body/786027.jpg);
+}
+
+.main-staff {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem 0rem;
+}
+.staff-container1,
+.staff-container2,
+.staff-container3,
+.staff-container4 {
+    padding: 2rem 0rem;
+}
+.staff-container1 h1,
+.staff-container2 h1,
+.staff-container3 h1,
+.staff-container4 h1 {
+    color: white;
+    margin: 1rem;
+    font-size: 2.2rem;
+    padding-bottom: 2rem;
+}
+.staff-container1 p,
+.staff-container2 p,
+.staff-container3 p,
+.staff-container4 p {
+    color: white;
+    margin: 1rem;
+    font-size: 1.7rem;
+    padding: 0 8rem;
+}
+.staff-container1 img,
+.staff-container2 img,
+.staff-container3 img,
+.staff-container4 img {
+    margin: 1rem;
+    width: 8rem;
+}
