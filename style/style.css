@@ -135,9 +135,8 @@ html {
     padding-bottom: 0 2rem  ;
 }
 .main-informacion-img-Discord {
-    display: flex;
-    object-fit: contain;
-    border-radius: 1.5rem;
+    margin: 1rem;
+    border-radius: 2.5rem;
 }
 .main-informacion-text-Discord, .main-informacion-text-fivem {
     text-align: center;
