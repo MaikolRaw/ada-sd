@@ -103,6 +103,11 @@
 .main-informacion-text1-Discord{
     padding: 0 9rem;
 }
+.body1,
+.body2,
+.body3 {
+    width: 99vw;
+}
 
 /* Section3 */
 
