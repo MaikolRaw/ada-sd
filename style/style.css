@@ -132,9 +132,13 @@ html {
 .main-informacion-contenedor-fivem {
     width: 25rem;
     height: 29rem;
-    padding-bottom: 0 2rem  ;
+    padding-bottom: 0 2rem;
+    align-items: center;
 }
 .main-informacion-img-Discord {
+    align-items: center;
+    width: 22rem;
+    height: 13rem;
     margin: 1rem;
     border-radius: 2.5rem;
 }
