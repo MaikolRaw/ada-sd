@@ -85,10 +85,7 @@
     padding-bottom: 2rem;
     margin: 6rem 1rem;
 }
-.main-informacion-img-Discord {
-    margin: 1rem;
-    border-radius: 2.5rem;
-}
+
 .main-informacion-text-Discord, .main-informacion-text-fivem {
     text-align: center;
     color: white;
@@ -102,7 +99,7 @@
     color: white;
 }
 .main-informacion-text1-Discord{
-    padding: 0 8rem;
+    padding: 0 9rem;
 }
 
 /* Section3 */

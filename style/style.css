@@ -106,53 +106,52 @@ html {
     align-items: center;
 }
 .main-informacion-contenedor-Discord{
-    display: flex;
-    flex-direction: column;
+    display: block;
     background-color: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(5px);
     border: rgba(255, 255, 255, 0.9);
     border-radius: 2.5rem;
     width: 25rem;
-    height: 28rem;
+    height: 32rem;
     padding-bottom: 2rem;
     margin: 2rem 2rem;
-}
-.main-informacion-contenedor-fivem {
-    display: flex;
-    flex-direction: column;
-    background-color: rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(5px);
-    border: rgba(255, 255, 255, 0.9);
-    border-radius: 2.5rem;
-    width: 25rem;
-    height: 28rem;
-    padding-bottom: 2rem;
-    margin: 2rem 2rem;
-}
-.main-informacion-contenedor-fivem {
-    width: 25rem;
-    height: 29rem;
-    padding-bottom: 0 2rem;
     align-items: center;
 }
+.main-informacion-contenedor-fivem {
+    display: block;
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(5px);
+    border: rgba(255, 255, 255, 0.9);
+    border-radius: 2.5rem;
+    width: 25rem;
+    height: 33rem;
+    padding-bottom: 2rem;
+    margin: 2rem 2rem;
+}
+.main-informacion-con {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    padding: 1rem;
+}
+.main-informacion-img-fivem,
 .main-informacion-img-Discord {
-    align-items: center;
-    width: 22rem;
-    height: 13rem;
-    margin: 1rem;
-    border-radius: 2.5rem;
+    height: 17rem;
+    border-radius: 2.5rem;    
 }
-.main-informacion-text-Discord, .main-informacion-text-fivem {
+.main-informacion-text-Discord,
+.main-informacion-text-fivem {
     text-align: center;
     color: white;
-    font-size: 2.3rem;
+    font-size: 2.2rem;
     margin: 1rem;
 }
-.main-informacion-text1-Discord, .main-informacion-text1-fivem {
+.main-informacion-text1-Discord,
+.main-informacion-text1-fivem {
     text-align: center;
-    font-size: 1.5rem;
-    padding: 0 1.5rem;
     color: white;
+    font-size: 1.7rem;
 }
 .body3 {
     background-image: url(../img/body/786027.jpg);
