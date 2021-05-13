@@ -10,9 +10,6 @@ html {
 .body1 {
     background-image: url(../img/body/853407.jpg);
 }
-.antes {
-    background-color: black;
-}
 .nav {
     background-color: black;
     display: flex;
@@ -156,6 +153,7 @@ html {
     font-size: 1.7rem;
 }
 .body3 {
+    width: 99vw;
     background-image: url(../img/body/786027.jpg);
 }
 
